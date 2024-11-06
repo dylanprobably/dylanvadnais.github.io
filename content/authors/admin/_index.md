@@ -1,51 +1,53 @@
 ---
 # Display name
-title: 吳健雄
+title: Dylan Vadnais
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: '(they/he)'
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dylan
+last_name: Vadnais
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✍️✍️✍️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Video Game Writer and Anthropological Archaeologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Alberta
+    url: https://www.ualberta.ca/en/index.html
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'dvadnais@ualberta.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: brands/orcid
-    url: https://www.orcid.com/
+    url: https://www.linkedin.com/in/dylan-vadnais-2b8398256/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: uploads/Resume (October 2023).pdf
     label: Download my resume
----
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# Ghost Town:
+project name: Ghost Town
+project description: Ghost Town is an indie detective game set to be released December 2024. The game follows Ghost, a resident of a small Oregon mining town, as they try to discover the cause of their mysterious illness, and untimely demise.
+url: uploads/TEMP-Title-Screen.png
+url: uploads/lettertext.png
+
+---
+About
+
+Dylan Vadnais is a video game dev and writer, with their first published game to be released this December. With an honours degree in anthropology and certificate in archaeology, Dylan is inspired to explore human truths around the workd and throughout time through stories. Their passion for both playing video games and writing have culminated in diving head first into the world of video game development.
+They are on the lookout for other work that allows them to flex their narrative muscles and rely on their robust research background.
+
